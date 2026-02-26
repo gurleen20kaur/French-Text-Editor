@@ -31,3 +31,11 @@
 - ESLint
 - Prettier
 - Tailwind CSS IntelliSense
+
+## Correction provider API
+
+- LanguageTool (popular, has French; self-hostable; also has cloud)
+  Great baseline for grammar/spelling + rule-based suggestions.
+- Antidote Web API (excellent French quality, but licensing/enterprise-y)
+- LLM approach (OpenAI / etc.)
+  Best for style suggestions and explanations, but you must control hallucinations and cost.
