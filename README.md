@@ -18,8 +18,8 @@
 ## Front-End
 
 - React
-- Text Editor - Quill.js
-- CSS - Tailwind CSS + shadcn/ui
+- Text Editor - Quill.js (https://quilljs.com/docs/quickstart)
+- CSS - Tailwind CSS + shadcn/ui (https://ui.shadcn.com/)
 
 ## Back-End
 
